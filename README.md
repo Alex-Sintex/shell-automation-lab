@@ -1,0 +1,1 @@
+Collection of Bash scripts and shell automation exercises focused on file management, system monitoring, and command-line proficiency.
